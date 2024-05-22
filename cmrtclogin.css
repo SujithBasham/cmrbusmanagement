@@ -1,0 +1,322 @@
+.screenshot-2024-05-12-003841-2 {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .sign-in1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 108px;
+  }
+  .sign-in-title {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .label {
+    position: relative;
+    font-size: var(--font-size-base);
+    font-family: var(--font-poppins);
+    color: var(--color-gray-100);
+    white-space: pre-wrap;
+    text-align: left;
+  }
+  .hide,
+  .icon {
+    position: absolute;
+  }
+  .icon {
+    top: 3px;
+    right: 49px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .hide {
+    top: 0;
+    right: 0;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-poppins);
+    color: var(--color-dimgray-100);
+    text-align: right;
+  }
+  .password-hide-see {
+    height: 27px;
+    width: 73px;
+    position: relative;
+    display: none;
+  }
+  .email-label {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-10xs);
+  }
+  .text-field {
+    border: 1px solid var(--color-dimgray-200);
+    outline: 0;
+    background-color: transparent;
+    align-self: stretch;
+    height: 56px;
+    position: relative;
+    border-radius: var(--br-xs);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-width: 250px;
+  }
+  .error-message {
+    width: 101px;
+    position: relative;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-poppins);
+    color: var(--color-crimson);
+    text-align: left;
+    display: none;
+  }
+  .email {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .icon1,
+  .label1 {
+    position: relative;
+  }
+  .label1 {
+    font-size: var(--font-size-base);
+    font-family: var(--font-poppins);
+    color: var(--color-gray-100);
+    text-align: left;
+    display: inline-block;
+    min-width: 119px;
+  }
+  .icon1 {
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .show-password {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-10xs) 0 0;
+  }
+  .hide1 {
+    position: relative;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-poppins);
+    color: var(--color-dimgray-100);
+    text-align: right;
+    display: inline-block;
+    min-width: 41px;
+  }
+  .label-parent,
+  .password-hide-see1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .password-hide-see1 {
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .label-parent {
+    align-self: stretch;
+    justify-content: space-between;
+    padding: 0 9px 0 0;
+    gap: 20px;
+  }
+  .text-field2 {
+    border: 1px solid var(--color-dimgray-200);
+    outline: 0;
+    background-color: transparent;
+    align-self: stretch;
+    height: 56px;
+    position: relative;
+    border-radius: var(--br-xs);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-width: 250px;
+  }
+  .error-message1 {
+    width: 101px;
+    position: relative;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-poppins);
+    color: var(--color-crimson);
+    text-align: left;
+    display: none;
+  }
+  .text-field1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .icons,
+  .sign-up {
+    position: relative;
+  }
+  .icons {
+    height: 24px;
+    width: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .sign-up {
+    font-size: 22px;
+    font-weight: 500;
+    font-family: var(--font-poppins);
+    color: #000;
+    text-align: center;
+    display: inline-block;
+    min-width: 65px;
+    white-space: nowrap;
+  }
+  .button,
+  .submit-label {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .submit-label {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .button {
+    align-self: stretch;
+    border-radius: 40px;
+    background-color: #f6821f;
+    overflow: hidden;
+    justify-content: center;
+    padding: 15px 20px 16px;
+    mix-blend-mode: normal;
+  }
+  .credentials,
+  .credentials-form {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .credentials-form {
+    margin: 0;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .credentials {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 1px;
+    box-sizing: border-box;
+  }
+  .forgot-your-password {
+    position: relative;
+    font-size: var(--font-size-base);
+    text-decoration: underline;
+    color: #111;
+    text-align: right;
+  }
+  .sign-in {
+    width: 640px;
+    border-radius: 24px;
+    border: 1px solid rgba(102, 102, 102, 0.5);
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 38px 54px;
+    gap: 48px;
+    max-width: 100%;
+  }
+  .cmrtc-login-page,
+  .main {
+    display: flex;
+    align-items: flex-start;
+  }
+  .main {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+    text-align: center;
+    font-size: 32px;
+    color: var(--color-gray-100);
+    font-family: var(--font-poppins);
+  }
+  .cmrtc-login-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 64px 60px 128px;
+    box-sizing: border-box;
+    gap: 71px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 750px) {
+    .sign-in1 {
+      font-size: 26px;
+    }
+    .cmrtc-login-page {
+      gap: 35px;
+      padding-left: var(--padding-11xl);
+      padding-right: var(--padding-11xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 675px) {
+    .sign-in {
+      gap: var(--gap-5xl);
+      padding: 25px 27px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .sign-in1 {
+      font-size: 19px;
+    }
+    .label-parent {
+      flex-wrap: wrap;
+    }
+    .sign-up {
+      font-size: var(--font-size-lg);
+    }
+    .cmrtc-login-page {
+      gap: 18px;
+    }
+  }
+  

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.cmr-logo1 {
+    width: 425px;
+    margin-left: 50px;
+}
+
+.bg-navbar {
+    background-color: #f67a08;
+    width: 100vw;
+}
+
+.logo2 {
+    margin-left: 20px;
+    height: 90px;
+}
+
+.image-cover {
+    background-size: cover;
+    width: 100vw;
+}
+
+.nav-link:hover {
+    background-color: #955921;
+}
+
+.dropdown-item:hover {
+    background-color: #dedddc;
+}
+.about-us-drop-downs-card{
+    margin-left:90px;
+    margin-top:100px;
+    font-family:"Roboto";
+    font-weight: 200;
+}
+.about-us-contents:hover{
+    padding:10px;
+    background-color:#f67a08;
+    width:170px;
+}
+.about-us-welcome-title{
+    color:#333333;
+    font-size: 20px;
+    font-family: "poppins";
+}
+.welcome-section{
+    margin-top: 100px;
+}
+.our-vision-mission{
+    color:#333333;
+    font-weight:400;
+    font-size:18px;
+}
+.paragraph{
+    font-weight: 300;
+    font-size: 14px;
+}
