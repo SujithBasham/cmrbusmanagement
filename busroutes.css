@@ -1,0 +1,430 @@
+.frame-child {
+  height: 140.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.desktop-2-inner {
+  width: 765px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-41xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-2-child,
+.frame-item {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-item {
+  flex: 1;
+  position: relative;
+  background-color: var(--color-darkorange-200);
+  border: 1px solid var(--color-black);
+}
+.desktop-2-child {
+  height: 83.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 31.8px;
+}
+.place,
+.routes {
+  position: relative;
+  display: inline-block;
+}
+.routes {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  min-width: 127px;
+}
+.place {
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  text-align: left;
+  min-width: 74px;
+}
+.place-list {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl);
+  background-color: var(--color-darkorange-100);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 343px;
+  max-width: 100%;
+}
+.bollaram-alwalecil-wrapper:hover,
+.kukatpallykphb-wrapper:hover,
+.miyapurpatancherusangareddy-wrapper:hover,
+.place-list:hover {
+  background-color: var(--color-chocolate);
+}
+.bus-no {
+  position: relative;
+  display: inline-block;
+  min-width: 92px;
+}
+.bus-number-container,
+.place-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.bus-number-container {
+  flex: 1;
+  background-color: var(--color-darkorange-100);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 343px;
+}
+.place-container {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.bollaram-alwalecil {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray);
+  text-align: left;
+}
+.bollaram-alwalecil-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl);
+  background-color: var(--color-darkorange-100);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 343px;
+  max-width: 100%;
+}
+.a22a33a44a55a67 {
+  position: relative;
+}
+.a22a33a44a55a67-wrapper,
+.place-container1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.a22a33a44a55a67-wrapper {
+  flex: 1;
+  background-color: var(--color-darkorange-100);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 343px;
+}
+.place-container1 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.uppallb-nagar-ramanthpur {
+  position: relative;
+}
+.uppallb-nagar-ramanthpur-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 78px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.a91010a11121313a1414a {
+  position: relative;
+}
+.a91010a11121313a1414a-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 12px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.place-container2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+  color: var(--color-seagreen);
+}
+.sr-nagar-ammerpet {
+  position: relative;
+}
+.sr-nagar-ammerpet-mehadipatn-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 35px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.a1818a18b1919a2020a21 {
+  position: relative;
+}
+.a1818a18b1919a2020a21-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-23xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.place-container3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+  color: var(--color-darkslategray);
+}
+.kukatpallykphb {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-seagreen);
+  text-align: left;
+}
+.kukatpallykphb-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-xl);
+  background-color: var(--color-darkorange-100);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 343px;
+  max-width: 100%;
+}
+.a222424a252626a2727a2 {
+  position: relative;
+}
+.a222424a252626a2727a2-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 33px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.place-container4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+  color: var(--color-seagreen);
+}
+.miyapurpatancherusangareddy {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.miyapurpatancherusangareddy-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) 52px;
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.a3131a32333434a3535a3 {
+  position: relative;
+}
+.a3131a32333434a3535a3-wrapper {
+  background-color: var(--color-darkorange-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-23xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bus-info,
+.place-container5 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.place-container5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.bus-info {
+  flex-direction: column;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.bus-info,
+.desktop-2,
+.frame-section,
+.routes-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.routes-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 100%;
+}
+.desktop-2,
+.frame-section {
+  box-sizing: border-box;
+}
+.frame-section {
+  width: 1174px;
+  flex-direction: row;
+  padding: 0 var(--padding-41xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 432px;
+  gap: 0.2px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .place-container2,
+  .place-container3,
+  .place-container5 {
+    flex-wrap: wrap;
+  }
+  .frame-section {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .desktop-2-inner {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .routes {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .a22a33a44a55a67-wrapper,
+  .bollaram-alwalecil-wrapper,
+  .bus-number-container,
+  .place-list {
+    min-width: 100%;
+  }
+  .uppallb-nagar-ramanthpur-wrapper {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .a1818a18b1919a2020a21-wrapper {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .kukatpallykphb-wrapper {
+    min-width: 100%;
+  }
+  .miyapurpatancherusangareddy-wrapper {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .a3131a32333434a3535a3-wrapper {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .routes-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .routes {
+    font-size: var(--font-size-5xl);
+  }
+  .a1818a18b1919a2020a21,
+  .a222424a252626a2727a2,
+  .a22a33a44a55a67,
+  .a3131a32333434a3535a3,
+  .a91010a11121313a1414a,
+  .bollaram-alwalecil,
+  .bus-no,
+  .kukatpallykphb,
+  .miyapurpatancherusangareddy,
+  .place,
+  .sr-nagar-ammerpet,
+  .uppallb-nagar-ramanthpur {
+    font-size: var(--font-size-lgi);
+  }
+}
